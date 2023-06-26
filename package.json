@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ezou626/recordee/issues"
   },
-  "homepage": "https://github.com/ezou626/recordee#readme"
+  "homepage": "https://github.com/ezou626/recordee#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
