@@ -1,0 +1,29 @@
+{
+  "name": "recordee",
+  "version": "1.0.0",
+  "description": "A score recorded with extra features",
+  "main": "host/index.js",
+  "scripts": {
+    "test": "test_recordee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezou626/recordee.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript",
+    "html",
+    "html5"
+  ],
+  "author": "Eric Zou and Kevin Liu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ezou626/recordee/issues"
+  },
+  "homepage": "https://github.com/ezou626/recordee#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
