@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/ezou626/recordee#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "os": "^0.1.2",
+    "serve-favicon": "^2.5.0"
   }
 }
